@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f0fdfa;
+  -webkit-font-smoothing: antialiased;
+}
